@@ -1,0 +1,4 @@
+baseURL = "http://2283815345.github.io"
+languageCode = "zh-Han"
+title = "晨晨的博客"
+theme = "ananke"
